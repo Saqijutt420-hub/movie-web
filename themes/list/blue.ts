@@ -2,7 +2,7 @@ import { createTheme } from "../types";
 
 const tokens = {
   purple: {
-    c50: "#aac5ff",
+    c50: "#aac5f",
     c100: "#82a9ff",
     c200: "#4681ff",
     c300: "#1a63ff",
